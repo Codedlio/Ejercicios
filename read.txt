@@ -1,0 +1,31 @@
+1. Palíndromo:
+Escribe una función que determine si una cadena de texto es un palíndromo (es decir, se lee igual de izquierda a derecha que de derecha a izquierda). Ignora mayúsculas, minúsculas y espacios al realizar la verificación.
+
+2. FizzBuzz:
+Escribe una función que imprima los números del 1 al 100. Pero para los múltiplos de 3, imprime "Fizz" en lugar del número, y para los múltiplos de 5, imprime "Buzz". Para los números que son múltiplos de 3 y 5, imprime "FizzBuzz".
+
+3. Suma de dos números:
+Dada una matriz de números enteros y un número objetivo, escribe una función que encuentre y devuelva los índices de los dos números cuya suma sea igual al número objetivo. Si no se encuentran dos números que cumplan esta condición, la función debe devolver null.
+
+4. Factorial:
+Escribe una función para calcular el factorial de un número entero dado. El factorial de un número n es el producto de todos los números enteros positivos desde 1 hasta n.
+
+5. Cuenta regresiva recursiva:
+Escribe una función recursiva que reciba un número entero positivo y muestre una cuenta regresiva desde ese número hasta 0 en la consola.
+
+6. Anagramas:
+Escribe una función que determine si dos cadenas de texto son anagramas entre sí. Dos cadenas son anagramas si se puede formar una a partir de la otra reorganizando sus caracteres.
+
+7. Ordenar una matriz de objetos:
+Dada una matriz de objetos con una propiedad numérica llamada "valor", escribe una función que ordene la matriz en orden ascendente según los valores.
+
+8. Duplicados en una matriz:
+Escribe una función que encuentre y devuelva cualquier número duplicado en una matriz de números enteros. Si no se encuentran duplicados, la función debe devolver null.
+
+9. Suma de subconjuntos:
+Dada una matriz de números enteros, escribe una función que encuentre y devuelva todos los posibles subconjuntos cuya suma sea igual a un número objetivo dado.
+
+10. Números primos:
+Escribe una función que determine si un número entero dado es un número primo. Un número primo solo es divisible por 1 y por sí mismo.
+s
+Espero que estos problemas te ayuden a prepararte para entrevistas técnicas y te den la oportunidad de demostrar tus habilidades en resolución de problemas y lógica utilizando JavaScript. ¡Buena suerte!
